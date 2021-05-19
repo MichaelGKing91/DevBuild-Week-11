@@ -1,0 +1,14 @@
+﻿@model List<Employee> 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach (Employee emp in Model)
+{
+    @emp.lastname<br/>
+}
+<br /><br />
+@foreach (Department dep in ViewBag.viewdepts)
+{
+    @dep.name<br/>
+}

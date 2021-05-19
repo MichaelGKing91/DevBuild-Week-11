@@ -1,0 +1,19 @@
+﻿@model List<Department>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Department Index</h1>
+
+There are @Model.Count departments
+<br />
+<br />
+
+@foreach (Department dep in Model)
+{
+    <a href="/department/details/@dep.id"> @dep.name Details</a>
+    <br />
+    <a href="/department/edit/@dep.id"> @dep.name Edit</a>
+    <br />
+
+}
