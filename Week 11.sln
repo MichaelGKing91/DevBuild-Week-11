@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBDemo2", "DBDemo2\DBDemo2.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBMVC", "DBMVC\DBMVC.csproj", "{58084639-82A3-4A4C-A936-774D13E82DA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessDB", "BusinessDB\BusinessDB.csproj", "{3C596ED8-66D9-4CDE-9171-C68CC773EAA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessDB", "BusinessDB\BusinessDB.csproj", "{3C596ED8-66D9-4CDE-9171-C68CC773EAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore", "GroceryStore\GroceryStore.csproj", "{EFE1E506-82EB-41F4-8FEC-702841174BBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3C596ED8-66D9-4CDE-9171-C68CC773EAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C596ED8-66D9-4CDE-9171-C68CC773EAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C596ED8-66D9-4CDE-9171-C68CC773EAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE1E506-82EB-41F4-8FEC-702841174BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE1E506-82EB-41F4-8FEC-702841174BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE1E506-82EB-41F4-8FEC-702841174BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE1E506-82EB-41F4-8FEC-702841174BBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,6 +6,7 @@ C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\DBDemo1.dll
 C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\DBDemo1.pdb
 C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
 C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
 C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
 C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
@@ -32,4 +33,3 @@ C:\Users\mking10\dev\Week 11\DBDemo1\obj\Debug\netcoreapp3.1\DBDemo1.csproj.Copy
 C:\Users\mking10\dev\Week 11\DBDemo1\obj\Debug\netcoreapp3.1\DBDemo1.dll
 C:\Users\mking10\dev\Week 11\DBDemo1\obj\Debug\netcoreapp3.1\DBDemo1.pdb
 C:\Users\mking10\dev\Week 11\DBDemo1\obj\Debug\netcoreapp3.1\DBDemo1.genruntimeconfig.cache
-C:\Users\mking10\dev\Week 11\DBDemo1\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
